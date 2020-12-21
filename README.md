@@ -1,0 +1,2 @@
+# KCModInterop
+Hello! You have arrived at the GitHub repository for the KCModInterop framework. To start using it, download the file KCModInterop.cs. If that\'s all you want, happy modding! If you\'d like more information on how to use the framework, please check out the tutorial [here](https://docs.google.com/document/d/16L2LaHhjObGoQf5909xazjlLelOOxSuQLzOw5w0mhPg/edit?usp=sharing "here"). Examples for all the concepts in the tutorial can be found in this repository under the Examples directory.
